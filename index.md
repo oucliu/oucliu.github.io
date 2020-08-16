@@ -1,5 +1,6 @@
 ### 姓名：刘亚楠           学位：博士
 ### 性别：男               职称：
+
 ### 联系方式：oucliu@163.com
 ### 联系地址：山东省青岛市即墨鳌山卫问海路1号海洋国家实验室超算平台技术支持室
 
@@ -14,6 +15,7 @@
 #### 地震波传播 地球内部结构 被动源海底地震仪探测技术
 
 ### 主持或参加主要科研项目情况：
+
 
 ### 代表论著：
 #### Liu Yanan, Liu Baohua, Liu Chenguang, Hua Qingfeng, 2020. The crustal structure of the Eastern Subbasin of the South China Sea: constraints from receiver functions. Geophysical Journal International, 222(2):1003-1012.
