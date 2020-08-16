@@ -16,5 +16,5 @@
 ### 主持或参加主要科研项目情况：
 
 ### 代表论著：
-####Liu Yanan, Liu Baohua, Liu Chenguang, Hua Qingfeng, 2020. The crustal structure of the Eastern Subbasin of the South China Sea: constraints from receiver functions. Geophysical Journal International, 222(2):1003-1012.
-####刘亚楠, 李官保, 2016. 南黄海NHH01孔周边地震地层学. 海洋地质与第四纪地质, 36(5):13-19.
+#### Liu Yanan, Liu Baohua, Liu Chenguang, Hua Qingfeng, 2020. The crustal structure of the Eastern Subbasin of the South China Sea: constraints from receiver functions. Geophysical Journal International, 222(2):1003-1012.
+#### 刘亚楠, 李官保, 2016. 南黄海NHH01孔周边地震地层学. 海洋地质与第四纪地质, 36(5):13-19.
