@@ -12,7 +12,7 @@
       <p><b>职称：</b></p>
     </td>
     <td width="25%">
-      <img src="/lyn.jpg" width="100%">      % 插入证件照代码
+      <img src="/lyn.jpg" width="100%">
     </td>
   </tr>
 </table>
