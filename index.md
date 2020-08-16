@@ -20,5 +20,6 @@
 
 
 ### 代表论著：
+#### 3. 刘亚楠, 刘保华, 刘晨光, 华清峰, 颜文华, 2020. 南海东部次海盆地震背景噪声分析研究. 海洋地质与第四纪地质.（accepted）
 #### 2. Liu Yanan, Liu Baohua, Liu Chenguang, Hua Qingfeng, 2020. The crustal structure of the Eastern Subbasin of the South China Sea: constraints from receiver functions. Geophysical Journal International, 222(2):1003-1012.
 #### 1. 刘亚楠, 李官保, 2016. 南黄海NHH01孔周边地震地层学. 海洋地质与第四纪地质, 36(5):13-19.
